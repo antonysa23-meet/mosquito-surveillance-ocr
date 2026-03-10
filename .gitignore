@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+_temp/
+debug/
+page_1.png
+automated_ocr_output.csv
